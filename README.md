@@ -1,4 +1,4 @@
-[HTML5 version for StarCraft game](https://github.com/gloomyson/StarCraft) in a Docker container.  
+[HTML5 version for StarCraft game](https://github.com/gloomyson/StarCraft) by @gloomyson, in a Docker container.  
 
 Local build:
 ```sh
